@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SheepCounter</string>
+    <string name="txt_students">овца(ец)</string>
+    <string name="btn_students">Добавить овцу</string>
+</resources>
